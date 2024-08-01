@@ -1,0 +1,15 @@
+.modal_conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.modal_conteudo ul{
+    list-style: none;
+    color: red;
+}
+.modal_overlay{
+    background-color: black;
+    color: white;
+    border-top: 2px solid black;
+}
